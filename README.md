@@ -5,6 +5,8 @@ This project documents my approach to an **eJPT (eLearnSecurity Junior Penetrati
 
 While the initial exploit was straightforward, the real learning came from **pivoting, custom scanning, and adapting tools** to simulate a real-world penetration test.
 
+Lab Demonstration: https://drive.google.com/file/d/1u1myrlVgGRehGT-8XQYZz1elWbCrpaHQ/view
+
 ---
 
 ## 🎯 Lab Objectives
@@ -72,8 +74,6 @@ While the initial exploit was straightforward, the real learning came from **piv
 ## 📜 License
 This project is intended **for educational purposes only**.  
 You are free to use the scripts and notes under the **MIT License**.  
-
-*(If you want to restrict it from commercial reuse, you could instead use **CC BY-NC 4.0**.)*
 
 ---
 
